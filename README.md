@@ -1,5 +1,4 @@
 <h1 align="center">Hey there, I'm Shriyansh Sharma</h1>
-<h3 align="center">Curious Mind | Builder | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN1MnBndjJhcHYwaTVnMjk4MnF6OXMxbzkyNnVzbm4yM3ozYzJ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wJ8QGSXasDvPy/giphy.gif" width="260" alt="Developer Animation"/>
