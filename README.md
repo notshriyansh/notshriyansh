@@ -18,28 +18,6 @@ Currently focused on improving my backend engineering skills and deepening my un
 
 ---
 
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/notshriyansh/paytm-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notshriyansh&repo=paytm-clone&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/notshriyansh/event-ticketing-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notshriyansh&repo=event-ticketing-platform&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/notshriyansh/tab-to-todo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notshriyansh&repo=tab-to-todo&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/notshriyansh/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=notshriyansh&repo=portfolio&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-</p>
-
----
-
 ### Tech Stack
 
 <p align="center">
