@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Shriyansh Sharma</h1>
 
 <p align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN1MnBndjJhcHYwaTVnMjk4MnF6OXMxbzkyNnVzbm4yM3ozYzJ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wJ8QGSXasDvPy/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI4aGh6NThseWQ3NDFxZmJ5a2R5MXJjdG5jeDBpMDBwaG91dnhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rK2bkFx4FmFBqIhIm6/giphy.gif)" width="260" alt="Developer Animation"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI4aGh6NThseWQ3NDFxZmJ5a2R5MXJjdG5jeDBpMDBwaG91dnhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rK2bkFx4FmFBqIhIm6/giphy.gif" width="260" alt="Developer Animation"/>
 </p>
 
 ---
