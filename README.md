@@ -13,29 +13,19 @@ Software Engineer
 
 ### About
 
-I am a **Software Engineer** focused on building functional, well-architected web applications. 
-
-I enjoy bridging the gap between clean frontend interfaces and robust backend logic.
+A **Software Engineer** focused on building functional, well-architected web applications. 
 
 ---
 
 ### Tech Stack
 
-**Languages & Runtimes**
-- **TypeScript**, **Bun**, Node.js
-- Java, C++, Python, Go
+- Languages & Runtimes: TypeScript, Bun, Node.js, Java, C++, Python, Go
 
-**Backend & Frameworks**
-- **Hono**, Express, **Spring Boot**
-- REST APIs, WebSockets, Authentication
+- Backend & Frameworks: Hono, Express, Spring Boot, REST APIs, WebSockets, Authentication
 
-**Databases & ORMs**
-- **PostgreSQL**, MongoDB, Redis
-- **Prisma**, Drizzle
+- Databases & ORMs: PostgreSQL, MongoDB, Redis, Prisma, Drizzle
 
-**Infrastructure & Edge**
-- **Cloudflare Workers**, Docker, AWS
-- Nginx, Linux, Git, Vercel
+- Infrastructure & Edge: Cloudflare Workers, Docker, AWS, Nginx, Linux, Git, Vercel
 
 ---
 
