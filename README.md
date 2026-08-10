@@ -1,38 +1,22 @@
-<h1 align="center">Shriyansh Sharma</h1>
-
-<p align="center">
-Software Engineer 
-</p>
-
-<p align="center">
-<a href="https://shriyansh-sharma.vercel.app">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/shriyansh-sharmaa/">LinkedIn</a>
-</p>
-
 ---
 
-### About
+# Shriyansh Sharma
 
-A **Software Engineer** focused on building functional, well-architected web applications. 
+**Software Engineer · Backend · Systems**
+
+I build software with a focus on software engineering, distributed systems, and infrastructure.
+
+
+### Stack
+
+- Languages: TypeScript, Java, Python, C++, Go
+- Backend: FastAPI, Node.js, Hono, Express, REST APIs, WebSockets
+- Data & Retrieval: PostgreSQL, MongoDB, Redis, Qdrant, RAG, Prisma, Drizzle
+- Infrastructure: Docker, Linux, AWS, Cloudflare Workers
+- Tools & Services: Git, GitHub, Vercel
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/shriyansh-sharmaa/) · [X](https://x.com/shriy4nsh/) · [Email](mailto:shriyansh707@gmail.com) · [Portfolio](https://shriyansh-sharma.vercel.app/)
 
 ---
-
-### Tech Stack
-
-- Languages & Runtimes: TypeScript, Bun, Node.js, Java, C++, Python, Go
-
-- Backend & Frameworks: Hono, Express, Spring Boot, REST APIs, WebSockets, Authentication
-
-- Databases & ORMs: PostgreSQL, MongoDB, Redis, Prisma, Drizzle
-
-- Infrastructure & Edge: Cloudflare Workers, Docker, AWS, Nginx, Linux, Git, Vercel
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notshriyansh&show_icons=true&hide_border=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notshriyansh&hide_border=true&theme=github-dark-blue" height="160"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notshriyansh&base=15&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
