@@ -1,5 +1,3 @@
----
-
 # Shriyansh Sharma
 
 **Software Engineer · Backend · Systems**
@@ -18,5 +16,3 @@ I build software with a focus on software engineering, distributed systems, and 
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/shriyansh-sharmaa/) · [X](https://x.com/shriy4nsh/) · [Email](mailto:shriyansh707@gmail.com) · [Portfolio](https://shriyansh-sharma.vercel.app/)
-
----
