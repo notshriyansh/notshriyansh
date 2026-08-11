@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend · Systems**
 
-I build software with a focus on software engineering, distributed systems, and infrastructure.
+I enjoy building systems and learning how the pieces work together, with a focus on software engineering, distributed systems, and infrastructure.
 
 
 ### Stack
